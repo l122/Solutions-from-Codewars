@@ -2,3 +2,4 @@
 .vscode/
 *.s
 .build/
+README.md

@@ -17,7 +17,7 @@ The tests are done usind [Igloo Testing Framework](https://github.com/joakimkarl
 ## How to complie and run the code on Windows
 
 - Check if you have a compiler installed by typing **g++ --version** in your command line
-- Navigate to the folder **src** by typing **cd src**
+- Navigate to the folder **src** by typing **cd My-Solutions-from-Codewars\src**
 - Type **g++ "file-name.cxx" -o "file-name.exe" -I ..**
 - Type **file-name.exe**
 

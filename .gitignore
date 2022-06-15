@@ -1,4 +1,4 @@
 *.exe
 *.s
-.build/
+build/
 README.md
